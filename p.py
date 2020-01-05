@@ -6,5 +6,11 @@ def beata():
     print('beata')
 
 
+def klaudia():
+    print('klaudia')
+
 ala()
 beata()
+klaudia()
+
+
