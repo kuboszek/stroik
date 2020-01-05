@@ -9,8 +9,13 @@ def beata():
 def klaudia():
     print('klaudia')
 
+
+def paulina():
+    print('paulina')
+
+
 ala()
 beata()
 klaudia()
-
+paulina()
 
